@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>DAST Enterprise TEST 연습</description>
+   <name>DAST Enterprise TEST</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ac45640a-7d9c-489b-960a-098778305444</testCaseGuid>
+</TestCaseEntity>
