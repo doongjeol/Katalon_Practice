@@ -23,5 +23,3 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_Sparrow DAST/input
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_Sparrow DAST/input_2'), 'HeCM15nHKBI=')
 
-WebUI.click(findTestObject('Object Repository/Page_Sparrow DAST/button_'))
-
