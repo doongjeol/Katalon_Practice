@@ -25,7 +25,3 @@ WebUI.openBrowser('')
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('http://dastwin.fasoo.com:39000/login?redirect=%2Fdashboard')
-
-WebUI.closeBrowser()
-
