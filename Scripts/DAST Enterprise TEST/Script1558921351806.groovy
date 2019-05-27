@@ -19,5 +19,3 @@ WebUI.navigateToUrl('http://dastwin.fasoo.com:39000/login?redirect=%2Fdashboard'
 
 WebUI.setText(findTestObject('Object Repository/Page_Sparrow DAST/input'), 'dain')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Sparrow DAST/input_1'), 'HeCM15nHKBI=')
-
