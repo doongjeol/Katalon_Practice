@@ -29,5 +29,3 @@ WebUI.click(findTestObject('Object Repository/Page_/div_'))
 
 WebUI.click(findTestObject('Object Repository/Page_  -/i__fa fa-angle-down'))
 
-WebUI.setText(findTestObject('Object Repository/Page_  -/input__main'), 'dain')
-
