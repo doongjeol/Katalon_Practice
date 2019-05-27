@@ -17,5 +17,15 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://dastwin.fasoo.com:39000/login?redirect=%2Fdashboard')
 
-WebUI.setText(findTestObject('Object Repository/Page_Sparrow DAST/input'), 'dain')
+WebUI.setText(findTestObject('Page_Sparrow DAST/input'), 'dain')
+
+WebUI.openBrowser('')
+
+WebUI.openBrowser('')
+
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('http://dastwin.fasoo.com:39000/login?redirect=%2Fdashboard')
+
+WebUI.closeBrowser()
 
